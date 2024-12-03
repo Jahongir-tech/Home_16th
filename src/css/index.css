@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @layer utilities {
+  .custom-container-lg {
+    max-width: 1632px;
+  }
+} */
+#header .active {
+  color: #FFD3AF;
+}
